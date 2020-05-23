@@ -1,0 +1,17 @@
+{
+  "meta-version": "0",
+  "name": "UUID",
+  "version": "0.0.0",
+  "auth": "github:littlebenlittle",
+  "description": "Basic UUID subs",
+  "source-url": "https://github.com/littlebenlittle/raku-uuid",
+  "perl": "6.d",
+  "author": "Ben Little <ben.little@fruition.net>",
+  "tags": [
+    "uuid"
+  ],
+  "license": "Artistic-2.0",
+  "provides": {
+    "UUID": "lib/UUID.rakumod"
+  }
+}
